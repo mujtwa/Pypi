@@ -1,0 +1,2 @@
+[console_scripts]
+facts = facts.__main__:main

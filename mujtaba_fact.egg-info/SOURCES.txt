@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+fact/__init__.py
+fact/__main__.py
+mujtaba_fact.egg-info/PKG-INFO
+mujtaba_fact.egg-info/SOURCES.txt
+mujtaba_fact.egg-info/dependency_links.txt
+mujtaba_fact.egg-info/entry_points.txt
+mujtaba_fact.egg-info/top_level.txt
